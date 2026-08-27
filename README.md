@@ -12,8 +12,8 @@ O foco principal desta customização foi manter a impressora funcionando mesmo 
 - Placa: `BOARD_RAMPS_CREALITY`
 - Máquina: `CR-10 V2`
 - Drivers: TMC2208 standalone em X, Y, Z e E0
-- Hotend sensor pin remapped para `TEMP_0_PIN = 11`
-- Bed sensor pin remapped para `TEMP_BED_PIN = 15`
+- Hotend sensor pin remapped para `TEMP_0_PIN = 11 (A11)`
+- Bed sensor pin remapped para `TEMP_BED_PIN = 15 (E2)`
 - Bootscreen e status screen customizados ativos como parte da personalização visual
 
 ## Alterações principais
